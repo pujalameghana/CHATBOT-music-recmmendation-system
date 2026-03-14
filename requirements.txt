@@ -1,0 +1,5 @@
+pip install numpy==1.19.2 --user
+pip install pandas==0.25.3 --user
+pip install Django==2.1.7 --user
+pip install PyMySQL==0.9.3 --user
+pip install seaborn==0.10.1 --user
